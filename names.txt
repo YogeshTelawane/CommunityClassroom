@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 adding 1 line
 
 adding 2 line
+=======
+>>>>>>> parent of a0cd223 (names.txt line added on 1)
